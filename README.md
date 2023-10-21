@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello&fontSize=90)
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SlowSteady&fontSize=90)
 
 <br/>
-
-<div align="center">
 
 ## TECH STACK 
 
